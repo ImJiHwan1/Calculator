@@ -1,0 +1,22 @@
+C:\Users\sech0\Desktop\실무 프로그래밍\07장\Exe\CalculatorCS.exe.config
+C:\Users\sech0\Desktop\실무 프로그래밍\07장\Exe\CalculatorCS.exe
+C:\Users\sech0\Desktop\실무 프로그래밍\07장\Exe\CalculatorCS.pdb
+C:\Users\sech0\Desktop\실무 프로그래밍\07장\Application\CalculatorCS\obj\Release\CalculatorCS.csprojAssemblyReference.cache
+C:\Users\sech0\Desktop\실무 프로그래밍\07장\Application\CalculatorCS\obj\Release\CalculatorCS.Form1.resources
+C:\Users\sech0\Desktop\실무 프로그래밍\07장\Application\CalculatorCS\obj\Release\CalculatorCS.Properties.Resources.resources
+C:\Users\sech0\Desktop\실무 프로그래밍\07장\Application\CalculatorCS\obj\Release\CalculatorCS.csproj.GenerateResource.cache
+C:\Users\sech0\Desktop\실무 프로그래밍\07장\Application\CalculatorCS\obj\Release\CalculatorCS.csproj.CoreCompileInputs.cache
+C:\Users\sech0\Desktop\실무 프로그래밍\07장\Application\CalculatorCS\obj\Release\CalculatorCS.exe
+C:\Users\sech0\Desktop\실무 프로그래밍\07장\Application\CalculatorCS\obj\Release\CalculatorCS.pdb
+C:\Users\sech0\Desktop\실무 프로그래밍\07장\Application\Exe\CalculatorCS.exe.config
+C:\Users\sech0\Desktop\실무 프로그래밍\07장\Application\Exe\CalculatorCS.exe
+C:\Users\sech0\Desktop\실무 프로그래밍\07장\Application\Exe\CalculatorCS.pdb
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\07장\Application\Exe\CalculatorCS.exe.config
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\07장\Application\Exe\CalculatorCS.exe
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\07장\Application\Exe\CalculatorCS.pdb
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\07장\Application\CalculatorCS\obj\Release\CalculatorCS.csprojAssemblyReference.cache
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\07장\Application\CalculatorCS\obj\Release\CalculatorCS.Form1.resources
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\07장\Application\CalculatorCS\obj\Release\CalculatorCS.Properties.Resources.resources
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\07장\Application\CalculatorCS\obj\Release\CalculatorCS.csproj.GenerateResource.cache
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\07장\Application\CalculatorCS\obj\Release\CalculatorCS.exe
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\07장\Application\CalculatorCS\obj\Release\CalculatorCS.pdb
